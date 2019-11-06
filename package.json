@@ -1,0 +1,33 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.1",
+    "browser-sync": "^2.26.7",
+    "child_process": "^1.0.2",
+    "cssnano": "^4.1.10",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0",
+    "gulp-imagemin": "^6.1.1",
+    "gulp-inject": "^5.0.4",
+    "gulp-newer": "^1.4.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "raw-loader": "^3.1.0",
+    "webpack": "^4.41.2",
+    "webpack-stream": "^5.2.1"
+  }
+}
