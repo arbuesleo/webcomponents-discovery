@@ -6,6 +6,7 @@
   * [Reinventar a roda a cada novo framework JS, vale a pena?](https://www.infoq.com/br/presentations/reinventar-a-roda-a-cada-novo-framework-js-vale-a-pena/)
   * [Desmistificando o Polymer](https://betomuniz.com/blog/desmistificando-o-polymer-parte-1/)
   * [LintElement](https://lit-element.polymer-project.org/)
+  * [React Js to Webcomponents](https://hackernoon.com/how-to-turn-react-component-into-native-web-component-84834315cb24)
 
 # Pontos positivos em se utilizar Webcomponents
 
